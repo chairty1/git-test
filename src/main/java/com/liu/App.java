@@ -13,5 +13,6 @@ public class App
         System.out.println( "Hello git1!" );
         System.out.println( "Hello git2!" );
         System.out.println( "maset merge" );
+        System.out.println( "hot-fix meger" );
     }
 }
