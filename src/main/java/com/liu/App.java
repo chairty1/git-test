@@ -15,5 +15,6 @@ public class App
         System.out.println( "maset merge" );
         System.out.println( "hot-fix meger" );
         System.out.println( "push test" );
+        System.out.println( "pull test" );
     }
 }
